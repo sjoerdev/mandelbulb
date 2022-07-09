@@ -1,4 +1,4 @@
-# fractalrenderer
+# Fractal Renderer Unity
 This is a 3d realtime fractal renderer capable of rendering with ray traced reflections, soft shadows and insane colors. I made this renderer using a technique called ray marching, also known as sphere tracing. its basically a super elegant implementation of ray tracing. Anyway, i hope you have fun exploring my fractals and rendering pretty images ;).
 
 ## How to open this project:
